@@ -1,4 +1,4 @@
-"# WordPress Automation
+# WordPress Automation
 
 ## Project Overview
 This project provides automated testing for WordPress plugin installation and activation using Selenium WebDriver. It specifically tests the installation and activation flow of the Everest Forms plugin on a WordPress site.
